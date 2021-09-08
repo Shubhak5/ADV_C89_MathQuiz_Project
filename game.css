@@ -20,6 +20,13 @@
             margin-left: 20px;
         }
         
+        #player1_score,
+        #player2_score {
+            font-size: 20px;
+            color: hsl(69, 72%, 56%);
+            ;
+        }
+        
         #number1,
         #number2 {
             width: 30%;
